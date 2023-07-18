@@ -1,0 +1,22 @@
+.App{
+  justify-content: center;
+}
+div h2{
+  text-align: center;
+}
+#form{
+  max-width: 320px;
+  margin: 2em auto;
+  border: 2px solid grey;
+  padding: 20px;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.btn{
+  cursor: pointer;
+}
+
